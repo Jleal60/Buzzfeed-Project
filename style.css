@@ -14,29 +14,55 @@ h1 {
 
 .pic1 {
   display: table-row;
+  
   margin: 0 auto;
-  width: 30%;
+  width: 80%;
   height: auto;
 }
 
 .pic2 {
-  display: table-row;
+  display: center;
+  justify-content: start;
   margin: 0 auto;
+  
   width: 30%;
   height: auto;
 }
 
 .pic3 {
-  display: table-row;
+  display: center;
+  justify-content: start;
   margin: 0 auto;
-  width: 30%;
+  width: 40%;
   height: auto;
 }
 
 .pic4 {
-  display: table-row;
+  display:  center;
+  justify-content: start;
+  margin: 0 auto;
+  width: 40%;
+  height: auto;
+}
+
+.pic5 {
+  display: center;
+  justify-content: start;
+  margin: 0 auto;
+  width: 40%;
+  height: auto;
+}
+
+.pic6 {
+  display: none;
   margin: 0 auto;
   width: 30%;
   height: auto;
 }
 
+.pic7 {
+  display: none;
+  margin: 0 auto;
+  width: 30%;
+  height: auto;
+}
